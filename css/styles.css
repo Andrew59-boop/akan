@@ -1,4 +1,22 @@
-x-special/nautilus-clipboard
-copy
-file:///home/andrewyaah/Desktop/bootsrapp/bootstrap-4.4.1-dist%20(1)/bootstrap-4.4.1-dist/css/bootstrap.css
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
 
+body {
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://free-clipart-pictures.com/images/culture-drawing-person-4.jpg) no-repeat center center/cover;
+
+}
+
+h1 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 3rem;
+    padding: 5px;
+    margin: 0 auto;
+    color: red;
+}
+
+p {
+    color: white;
+    font-size: 1.2rem;
+}
+form {
+    color: whitesmoke;
+}
