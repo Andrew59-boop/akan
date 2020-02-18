@@ -1,7 +1,7 @@
 
 #{Akan}
 #### {Naming system}, {2020}
-#### By **{Shii, Ruth}**
+#### By **{Andrew & Shii}**
 ## Description
 {Akan is a naming system structured as per the child naming cultures of Ghana,
                  where new borns are named in context to the day of the week from certain names.}
